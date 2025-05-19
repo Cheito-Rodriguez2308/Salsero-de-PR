@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Sample data for a conceptual academic graph
+# Sample data for an graph
 components = ['Baseline Solar Cell', 'With Micro Capacitor', 'With Micro Converter', 'Integrated System']
 efficiency = [15.2, 17.8, 18.3, 20.1]  # in percent
 losses = [12.5, 10.1, 9.3, 7.4]  # in percent
