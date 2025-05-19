@@ -60,7 +60,7 @@ jose.rodriguez.munoz2308@gmail.com
 
 If you use this repository, please cite the following:
 
-> Rodríguez Muñoz, J.J. (2024). *Sustainable Energy Conversion: A Solar Cell Chip with Built-In DC to AC Transformation.* Energy: Sustainable Materials and Design (EGSD). 
+> Rodríguez Muñoz, J.J. (2024). *Sustainable Energy Conversion: A Solar Cell Chip with Built-In DC to AC Transformation.* Energy: Sustainable Materials and Design (EGSD). 10.5281/zenodo.15468001 
 
 ---
 
