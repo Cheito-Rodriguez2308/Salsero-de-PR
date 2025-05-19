@@ -21,15 +21,7 @@ This research presents an innovative solar cell design that integrates **micro-c
 - 📉 **Up to 30% efficiency gain** compared to traditional inverter-based systems  
 - 🌡️ **Operational stability below 50°C**, improving longevity and performance  
 - 📈 **Low waveform distortion** (2.3% THD), ensuring compatibility with AC grid systems  
-- 🛠️ **Fully tested prototype** and simulation-validated design  
-
----
-
-## How to Reproduce
-
-1. Open simulation files in **LTSpice** or **PartQuest** for circuit behavior.  
-2. Run thermal and electrical models using **COMSOL Multiphysics**.  
-3. Use `.csv` data for statistical analysis in Python or Excel.  
+- 🛠️ **Fully tested prototype** and simulation-validated design
 
 ---
 
