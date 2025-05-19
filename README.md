@@ -29,8 +29,7 @@ This research presents an innovative solar cell design that integrates **micro-c
 
 1. Open simulation files in **LTSpice** or **PartQuest** for circuit behavior.  
 2. Run thermal and electrical models using **COMSOL Multiphysics**.  
-3. Use provided `.csv` data for statistical analysis in Python or Excel.  
-4. Breadboard prototype instructions are included in `/docs/prototype_instructions.md`.
+3. Use `.csv` data for statistical analysis in Python or Excel.  
 
 ---
 
