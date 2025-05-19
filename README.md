@@ -52,7 +52,7 @@ This project is licensed under the **Creative Commons License** — see the [LIC
 ## Contact
 
 For questions, collaborations, or data requests:  
-📧 josejulian.research@gmail.com *(replace with your actual contact email or GitHub issues link)*
+jose.rodriguez.munoz2308@gmail.com 
 
 ---
 
@@ -60,7 +60,7 @@ For questions, collaborations, or data requests:
 
 If you use this repository, please cite the following:
 
-> Rodríguez Muñoz, J.J. (2024). *Sustainable Energy Conversion: A Solar Cell Chip with Built-In DC to AC Transformation.* Energy: Sustainable Materials and Design (EGSD).
+> Rodríguez Muñoz, J.J. (2024). *Sustainable Energy Conversion: A Solar Cell Chip with Built-In DC to AC Transformation.* Energy: Sustainable Materials and Design (EGSD). 
 
 ---
 
