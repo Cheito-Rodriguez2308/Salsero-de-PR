@@ -45,7 +45,7 @@ This research presents an innovative solar cell design that integrates **micro-c
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Creative Commons License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
