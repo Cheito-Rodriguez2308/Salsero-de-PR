@@ -23,7 +23,7 @@ summary = grouped.agg(['mean', 'std', 'min', 'max'])
 print("PCE Descriptive Statistics (by Test)")
 print(summary)
 
-# Step 4: Plot the PCE distribution (optional visualization)
+# Step 4: Plot the PCE distribution 
 import matplotlib.pyplot as plt
 
 df.boxplot(column='PCE (%)', by='Test', grid=False)
